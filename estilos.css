@@ -1,0 +1,23 @@
+p{
+   color: deepskyblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: deepskyblue;
+    background-color: blue;
+    text-align: center;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blue;
+    color: deepskyblue;
+}
+ul{
+    font-style: italic;
+}
+
+h4{
+    font-family: sans-serif;
+}
